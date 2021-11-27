@@ -24,7 +24,7 @@ Supports the following commands:
 - Force shutdown the remote computer using NtShutdownSystem function:
 `` forceshutdown ``
 
-Force restart the remote computer using NtShutdownSystem function:
+- Force restart the remote computer using NtShutdownSystem function:
 `` forcerestart ``
 
 - Overwrite the MBR of the remote computer with garbage data, cause the remote computer unable to boot:
